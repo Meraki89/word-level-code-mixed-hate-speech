@@ -128,8 +128,8 @@ Sentence_ID,Token,Label
 9,what,n
 9,will,n
 9,fick,B-B
-9,someone,n
-9,up,n
+9,someone,B
+9,up,B
 9,beyond,n
 9,belief,n
 9,.,n
